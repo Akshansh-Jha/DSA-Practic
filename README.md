@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/0347-top-k-frequent-elements) |
 | [0611-valid-triangle-number](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/0643-maximum-average-subarray-i) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/0347-top-k-frequent-elements) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -86,4 +88,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/0643-maximum-average-subarray-i) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
