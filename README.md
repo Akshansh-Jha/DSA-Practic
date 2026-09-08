@@ -89,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/0643-maximum-average-subarray-i) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
