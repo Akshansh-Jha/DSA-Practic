@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/0217-contains-duplicate) |
+| [0239-sliding-window-maximum](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/0347-top-k-frequent-elements) |
 | [0611-valid-triangle-number](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/0643-maximum-average-subarray-i) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/0643-maximum-average-subarray-i) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -116,4 +119,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
