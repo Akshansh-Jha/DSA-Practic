@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0567-permutation-in-string](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/0611-valid-triangle-number) |
 ## Binary Search
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/0567-permutation-in-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Divide and Conquer
 |  |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/0643-maximum-average-subarray-i) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Akshansh-Jha/DSA-Practic/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
